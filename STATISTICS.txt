@@ -1,0 +1,45 @@
+success! iter=118, depth=9, max queue size=72
+success! iter=40, depth=7, max queue size=28
+success! iter=35, depth=8, max queue size=24
+success! iter=57, depth=11, max queue size=35
+success! iter=109, depth=14, max queue size=73
+success! iter=304, depth=26, max queue size=197
+Failure: Max iterations reaached
+success! iter=693, depth=23, max queue size=480
+success! iter=11221, depth=43, max queue size=5182
+success! iter=652, depth=40, max queue size=473
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+success! iter=75, depth=4, max queue size=66
+success! iter=56, depth=5, max queue size=50
+success! iter=117, depth=5, max queue size=103
+success! iter=126, depth=8, max queue size=114
+success! iter=73, depth=6, max queue size=66
+success! iter=2648, depth=12, max queue size=2333
+success! iter=1185, depth=19, max queue size=1085
+success! iter=1117, depth=19, max queue size=1008
+success! iter=313, depth=15, max queue size=290
+success! iter=467, depth=18, max queue size=433
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+success! iter=51165, depth=65, max queue size=45577
+success! iter=17877, depth=5, max queue size=16619
+success! iter=1148, depth=4, max queue size=1101
+success! iter=1730, depth=4, max queue size=1667
+success! iter=28660, depth=6, max queue size=26669
+success! iter=8645, depth=5, max queue size=8242
+success! iter=3104, depth=12, max queue size=3042
+Failure: Max iterations reaached
+success! iter=1376, depth=12, max queue size=1350
+success! iter=4262, depth=14, max queue size=4178
+Failure: Max iterations reaached
+success! iter=2783, depth=26, max queue size=2739
+Failure: Max iterations reaached
+success! iter=28923, depth=43, max queue size=28526
+success! iter=14017, depth=43, max queue size=13794
+success! iter=7356, depth=37, max queue size=7247

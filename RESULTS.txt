@@ -1,0 +1,23 @@
+The best heuristic I came up with is heuristic3(). My heuristic function looks at each character in a state and finds its column and position in that column in the goal state. I then check if a character is in the wrong column, how many characters are above it and add the amount of characters it has to move before it can move itself to the heuristic score. Afterwards, I iterate through all the characters in the goal column of the character we selected first and add 2 for every character out of place in that goal column due to having to move that character out of the column to rearrange it and then placing it back in. Here are two example states:
+From bwchp01.bwp:
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=0, f(n)=g(n)+h(n)=9
+
+CEDA
+B
+>>>>>>>>>>
+From bwchp45.bwp:
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=37, f(n)=g(n)+h(n)=51
+Q
+
+BC
+IS
+F
+O
+HE
+PRMG
+JDKAL
+NT
+>>>>>>>>>>
+The heuristic I came up with was able to solve 32 of the 45 problems in the challenge set. The trend I noticed in terms of which problems could be solved is that it became increasingly difficult to solve a problem which had a lot of random moves to produce its goal state. This makes sense to me as increasing random moves would make a problem increasingly more complex. As I was implementing different heuristic functions, I started to notice that while some were able to bring the number of goal tests down and the amount of problems solved in the challenge set up, it also found some sub-optimal solutions. Both the number of goal tests and the max queue size went up as the solution path increased.

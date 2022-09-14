@@ -1,0 +1,3 @@
+BlocksworldAstar is the executable created when running the makefile. It only takes one command-line argument and that would be a test file. The command should look like:
+./BlocksworldAstar BWCHP/bwchp01.bwp
+MAX_ITERS is set to 100000 meaning it will try 100000 iterations before returning a failure message.

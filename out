@@ -1,0 +1,4981 @@
+
+success! iter=118, depth=9, max queue size=72
+move 0, pathcost=0, heuristic=21, f(n)=g(n)+h(n)=21
+
+DE
+ABC
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=19, f(n)=g(n)+h(n)=20
+E
+D
+ABC
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=13, f(n)=g(n)+h(n)=15
+ED
+
+ABC
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=8, f(n)=g(n)+h(n)=11
+ED
+C
+AB
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=11, f(n)=g(n)+h(n)=15
+E
+C
+ABD
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=11, f(n)=g(n)+h(n)=16
+
+CE
+ABD
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=6, f(n)=g(n)+h(n)=12
+
+CED
+AB
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=2, f(n)=g(n)+h(n)=9
+B
+CED
+A
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=0, f(n)=g(n)+h(n)=8
+B
+CEDA
+
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=0, f(n)=g(n)+h(n)=9
+
+CEDA
+B
+>>>>>>>>>>
+success! iter=40, depth=7, max queue size=28
+move 0, pathcost=0, heuristic=24, f(n)=g(n)+h(n)=24
+
+ABD
+CE
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=16, f(n)=g(n)+h(n)=17
+D
+AB
+CE
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=12, f(n)=g(n)+h(n)=14
+DB
+A
+CE
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=6, f(n)=g(n)+h(n)=9
+DB
+AE
+C
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=2, f(n)=g(n)+h(n)=6
+DB
+AEC
+
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=6, f(n)=g(n)+h(n)=11
+D
+AECB
+
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=6, f(n)=g(n)+h(n)=12
+
+AECB
+D
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=0, f(n)=g(n)+h(n)=7
+
+AEC
+DB
+>>>>>>>>>>
+success! iter=35, depth=8, max queue size=24
+move 0, pathcost=0, heuristic=15, f(n)=g(n)+h(n)=15
+A
+BCE
+D
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=11, f(n)=g(n)+h(n)=12
+AD
+BCE
+
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=8, f(n)=g(n)+h(n)=10
+AD
+BC
+E
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=4, f(n)=g(n)+h(n)=7
+A
+BC
+ED
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=6, f(n)=g(n)+h(n)=10
+AC
+B
+ED
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=6, f(n)=g(n)+h(n)=11
+AC
+
+EDB
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=2, f(n)=g(n)+h(n)=8
+A
+C
+EDB
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=0, f(n)=g(n)+h(n)=7
+
+C
+EDBA
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=0, f(n)=g(n)+h(n)=8
+C
+
+EDBA
+>>>>>>>>>>
+success! iter=57, depth=11, max queue size=35
+move 0, pathcost=0, heuristic=15, f(n)=g(n)+h(n)=15
+C
+ADE
+B
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=15, f(n)=g(n)+h(n)=16
+
+ADEC
+B
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=13, f(n)=g(n)+h(n)=15
+B
+ADEC
+
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=11, f(n)=g(n)+h(n)=14
+BC
+ADE
+
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=13, f(n)=g(n)+h(n)=17
+BCE
+AD
+
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=11, f(n)=g(n)+h(n)=16
+BCE
+A
+D
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=6, f(n)=g(n)+h(n)=12
+BC
+A
+DE
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=6, f(n)=g(n)+h(n)=13
+B
+AC
+DE
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=2, f(n)=g(n)+h(n)=10
+
+AC
+DEB
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=6, f(n)=g(n)+h(n)=15
+
+A
+DEBC
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=6, f(n)=g(n)+h(n)=16
+A
+
+DEBC
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=0, f(n)=g(n)+h(n)=11
+AC
+
+DEB
+>>>>>>>>>>
+success! iter=109, depth=14, max queue size=73
+move 0, pathcost=0, heuristic=35, f(n)=g(n)+h(n)=35
+ABDE
+
+C
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=27, f(n)=g(n)+h(n)=28
+ABD
+E
+C
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=22, f(n)=g(n)+h(n)=24
+AB
+ED
+C
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=18, f(n)=g(n)+h(n)=21
+A
+ED
+CB
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=19, f(n)=g(n)+h(n)=23
+A
+E
+CBD
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=19, f(n)=g(n)+h(n)=24
+
+E
+CBDA
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=17, f(n)=g(n)+h(n)=23
+E
+
+CBDA
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=13, f(n)=g(n)+h(n)=20
+E
+A
+CBD
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=12, f(n)=g(n)+h(n)=20
+E
+AD
+CB
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=13, f(n)=g(n)+h(n)=22
+E
+ADB
+C
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=11, f(n)=g(n)+h(n)=21
+EC
+ADB
+
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=6, f(n)=g(n)+h(n)=17
+ECB
+AD
+
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=8, f(n)=g(n)+h(n)=20
+ECBD
+A
+
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=6, f(n)=g(n)+h(n)=19
+ECBD
+
+A
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=0, f(n)=g(n)+h(n)=14
+ECB
+D
+A
+>>>>>>>>>>
+success! iter=304, depth=26, max queue size=197
+move 0, pathcost=0, heuristic=87, f(n)=g(n)+h(n)=87
+ABD
+HI
+CEFGJ
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=74, f(n)=g(n)+h(n)=75
+ABDJ
+HI
+CEFG
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=63, f(n)=g(n)+h(n)=65
+ABDJG
+HI
+CEF
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=50, f(n)=g(n)+h(n)=53
+ABDJG
+HIF
+CE
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=42, f(n)=g(n)+h(n)=46
+ABDJGE
+HIF
+C
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=47, f(n)=g(n)+h(n)=52
+ABDJGEF
+HI
+C
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=47, f(n)=g(n)+h(n)=53
+ABDJGEFI
+H
+C
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=35, f(n)=g(n)+h(n)=42
+ABDJGEFI
+HC
+
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=39, f(n)=g(n)+h(n)=47
+ABDJGEF
+HC
+I
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=32, f(n)=g(n)+h(n)=41
+ABDJGE
+HCF
+I
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=20, f(n)=g(n)+h(n)=30
+ABDJGE
+HCFI
+
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=26, f(n)=g(n)+h(n)=37
+ABDJG
+HCFI
+E
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=29, f(n)=g(n)+h(n)=41
+ABDJ
+HCFIG
+E
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=27, f(n)=g(n)+h(n)=40
+ABD
+HCFIG
+EJ
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=20, f(n)=g(n)+h(n)=34
+ABD
+HCFI
+EJG
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=25, f(n)=g(n)+h(n)=40
+AB
+HCFID
+EJG
+>>>>>>>>>>
+move 16, pathcost=16, heuristic=27, f(n)=g(n)+h(n)=43
+ABG
+HCFID
+EJ
+>>>>>>>>>>
+move 17, pathcost=17, heuristic=29, f(n)=g(n)+h(n)=46
+ABGJ
+HCFID
+E
+>>>>>>>>>>
+move 18, pathcost=18, heuristic=22, f(n)=g(n)+h(n)=40
+ABGJE
+HCFID
+
+>>>>>>>>>>
+move 19, pathcost=19, heuristic=14, f(n)=g(n)+h(n)=33
+ABGJE
+HCFI
+D
+>>>>>>>>>>
+move 20, pathcost=20, heuristic=17, f(n)=g(n)+h(n)=37
+ABGJ
+HCFIE
+D
+>>>>>>>>>>
+move 21, pathcost=21, heuristic=13, f(n)=g(n)+h(n)=34
+ABG
+HCFIE
+DJ
+>>>>>>>>>>
+move 22, pathcost=22, heuristic=10, f(n)=g(n)+h(n)=32
+AB
+HCFIE
+DJG
+>>>>>>>>>>
+move 23, pathcost=23, heuristic=2, f(n)=g(n)+h(n)=25
+AB
+HCFI
+DJGE
+>>>>>>>>>>
+move 24, pathcost=24, heuristic=8, f(n)=g(n)+h(n)=32
+A
+HCFIB
+DJGE
+>>>>>>>>>>
+move 25, pathcost=25, heuristic=8, f(n)=g(n)+h(n)=33
+
+HCFIB
+DJGEA
+>>>>>>>>>>
+move 26, pathcost=26, heuristic=0, f(n)=g(n)+h(n)=26
+
+HCFI
+DJGEAB
+>>>>>>>>>>
+Failure: Max iterations reaached
+success! iter=693, depth=23, max queue size=480
+move 0, pathcost=0, heuristic=62, f(n)=g(n)+h(n)=62
+BEG
+ACDH
+FIJ
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=51, f(n)=g(n)+h(n)=52
+BE
+ACDHG
+FIJ
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=48, f(n)=g(n)+h(n)=50
+BE
+ACDHGJ
+FI
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=47, f(n)=g(n)+h(n)=50
+BE
+ACDHGJI
+F
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=49, f(n)=g(n)+h(n)=53
+BE
+ACDHGJIF
+
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=41, f(n)=g(n)+h(n)=46
+B
+ACDHGJIF
+E
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=47, f(n)=g(n)+h(n)=53
+BF
+ACDHGJI
+E
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=43, f(n)=g(n)+h(n)=50
+BFE
+ACDHGJI
+
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=36, f(n)=g(n)+h(n)=44
+BFE
+ACDHGJ
+I
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=30, f(n)=g(n)+h(n)=39
+BFE
+ACDHG
+IJ
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=34, f(n)=g(n)+h(n)=44
+BF
+ACDHGE
+IJ
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=20, f(n)=g(n)+h(n)=31
+B
+ACDHGE
+IJF
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=20, f(n)=g(n)+h(n)=32
+B
+ACDHG
+IJFE
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=23, f(n)=g(n)+h(n)=36
+B
+ACDH
+IJFEG
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=28, f(n)=g(n)+h(n)=42
+B
+ACD
+IJFEGH
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=25, f(n)=g(n)+h(n)=40
+BD
+AC
+IJFEGH
+>>>>>>>>>>
+move 16, pathcost=16, heuristic=19, f(n)=g(n)+h(n)=35
+BD
+ACH
+IJFEG
+>>>>>>>>>>
+move 17, pathcost=17, heuristic=15, f(n)=g(n)+h(n)=32
+BD
+ACHG
+IJFE
+>>>>>>>>>>
+move 18, pathcost=18, heuristic=9, f(n)=g(n)+h(n)=27
+BDE
+ACHG
+IJF
+>>>>>>>>>>
+move 19, pathcost=19, heuristic=11, f(n)=g(n)+h(n)=30
+BDE
+ACH
+IJFG
+>>>>>>>>>>
+move 20, pathcost=20, heuristic=8, f(n)=g(n)+h(n)=28
+BDEH
+AC
+IJFG
+>>>>>>>>>>
+move 21, pathcost=21, heuristic=6, f(n)=g(n)+h(n)=27
+BDEHC
+A
+IJFG
+>>>>>>>>>>
+move 22, pathcost=22, heuristic=0, f(n)=g(n)+h(n)=22
+BDEHCG
+A
+IJF
+>>>>>>>>>>
+move 23, pathcost=23, heuristic=0, f(n)=g(n)+h(n)=23
+BDEHCGA
+
+IJF
+>>>>>>>>>>
+success! iter=11221, depth=43, max queue size=5182
+move 0, pathcost=0, heuristic=85, f(n)=g(n)+h(n)=85
+BDFH
+EGJ
+ACI
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=72, f(n)=g(n)+h(n)=73
+BDFH
+EGJI
+AC
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=61, f(n)=g(n)+h(n)=63
+BDFH
+EGJIC
+A
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=53, f(n)=g(n)+h(n)=56
+BDFH
+EGJICA
+
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=50, f(n)=g(n)+h(n)=54
+BDF
+EGJICAH
+
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=49, f(n)=g(n)+h(n)=54
+BD
+EGJICAHF
+
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=50, f(n)=g(n)+h(n)=56
+B
+EGJICAHFD
+
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=44, f(n)=g(n)+h(n)=51
+
+EGJICAHFD
+B
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=49, f(n)=g(n)+h(n)=57
+
+EGJICAHF
+BD
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=47, f(n)=g(n)+h(n)=56
+F
+EGJICAH
+BD
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=48, f(n)=g(n)+h(n)=58
+FH
+EGJICA
+BD
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=37, f(n)=g(n)+h(n)=48
+FHD
+EGJICA
+B
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=39, f(n)=g(n)+h(n)=51
+FHDA
+EGJIC
+B
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=44, f(n)=g(n)+h(n)=57
+FHDAC
+EGJI
+B
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=51, f(n)=g(n)+h(n)=65
+FHDACI
+EGJ
+B
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=48, f(n)=g(n)+h(n)=63
+FHDACI
+EG
+BJ
+>>>>>>>>>>
+move 16, pathcost=16, heuristic=40, f(n)=g(n)+h(n)=56
+FHDAC
+EGI
+BJ
+>>>>>>>>>>
+move 17, pathcost=17, heuristic=34, f(n)=g(n)+h(n)=51
+FHDA
+EGIC
+BJ
+>>>>>>>>>>
+move 18, pathcost=18, heuristic=31, f(n)=g(n)+h(n)=49
+FHD
+EGICA
+BJ
+>>>>>>>>>>
+move 19, pathcost=19, heuristic=34, f(n)=g(n)+h(n)=53
+FH
+EGICAD
+BJ
+>>>>>>>>>>
+move 20, pathcost=20, heuristic=33, f(n)=g(n)+h(n)=53
+F
+EGICADH
+BJ
+>>>>>>>>>>
+move 21, pathcost=21, heuristic=27, f(n)=g(n)+h(n)=48
+
+EGICADH
+BJF
+>>>>>>>>>>
+move 22, pathcost=22, heuristic=26, f(n)=g(n)+h(n)=48
+H
+EGICAD
+BJF
+>>>>>>>>>>
+move 23, pathcost=23, heuristic=34, f(n)=g(n)+h(n)=57
+H
+EGICA
+BJFD
+>>>>>>>>>>
+move 24, pathcost=24, heuristic=31, f(n)=g(n)+h(n)=55
+H
+EGIC
+BJFDA
+>>>>>>>>>>
+move 25, pathcost=25, heuristic=26, f(n)=g(n)+h(n)=51
+
+EGIC
+BJFDAH
+>>>>>>>>>>
+move 26, pathcost=26, heuristic=23, f(n)=g(n)+h(n)=49
+
+EGI
+BJFDAHC
+>>>>>>>>>>
+move 27, pathcost=27, heuristic=20, f(n)=g(n)+h(n)=47
+I
+EG
+BJFDAHC
+>>>>>>>>>>
+move 28, pathcost=28, heuristic=22, f(n)=g(n)+h(n)=50
+I
+EGC
+BJFDAH
+>>>>>>>>>>
+move 29, pathcost=29, heuristic=27, f(n)=g(n)+h(n)=56
+IH
+EGC
+BJFDA
+>>>>>>>>>>
+move 30, pathcost=30, heuristic=29, f(n)=g(n)+h(n)=59
+IH
+EGCA
+BJFD
+>>>>>>>>>>
+move 31, pathcost=31, heuristic=17, f(n)=g(n)+h(n)=48
+IHD
+EGCA
+BJF
+>>>>>>>>>>
+move 32, pathcost=32, heuristic=20, f(n)=g(n)+h(n)=52
+IHDA
+EGC
+BJF
+>>>>>>>>>>
+move 33, pathcost=33, heuristic=26, f(n)=g(n)+h(n)=59
+IHDAC
+EG
+BJF
+>>>>>>>>>>
+move 34, pathcost=34, heuristic=24, f(n)=g(n)+h(n)=58
+IHDAC
+E
+BJFG
+>>>>>>>>>>
+move 35, pathcost=35, heuristic=17, f(n)=g(n)+h(n)=52
+IHDA
+EC
+BJFG
+>>>>>>>>>>
+move 36, pathcost=36, heuristic=10, f(n)=g(n)+h(n)=46
+IHD
+EC
+BJFGA
+>>>>>>>>>>
+move 37, pathcost=37, heuristic=11, f(n)=g(n)+h(n)=48
+IH
+ECD
+BJFGA
+>>>>>>>>>>
+move 38, pathcost=38, heuristic=5, f(n)=g(n)+h(n)=43
+I
+ECD
+BJFGAH
+>>>>>>>>>>
+move 39, pathcost=39, heuristic=8, f(n)=g(n)+h(n)=47
+ID
+EC
+BJFGAH
+>>>>>>>>>>
+move 40, pathcost=40, heuristic=6, f(n)=g(n)+h(n)=46
+ID
+E
+BJFGAHC
+>>>>>>>>>>
+move 41, pathcost=41, heuristic=14, f(n)=g(n)+h(n)=55
+I
+E
+BJFGAHCD
+>>>>>>>>>>
+move 42, pathcost=42, heuristic=14, f(n)=g(n)+h(n)=56
+IE
+
+BJFGAHCD
+>>>>>>>>>>
+move 43, pathcost=43, heuristic=0, f(n)=g(n)+h(n)=43
+IED
+
+BJFGAHC
+>>>>>>>>>>
+success! iter=652, depth=40, max queue size=473
+move 0, pathcost=0, heuristic=103, f(n)=g(n)+h(n)=103
+EI
+AGJ
+BCDFH
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=91, f(n)=g(n)+h(n)=92
+EIH
+AGJ
+BCDF
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=81, f(n)=g(n)+h(n)=83
+EIHF
+AGJ
+BCD
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=73, f(n)=g(n)+h(n)=76
+EIHFD
+AGJ
+BC
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=67, f(n)=g(n)+h(n)=71
+EIHFDC
+AGJ
+B
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=64, f(n)=g(n)+h(n)=69
+EIHFDCB
+AGJ
+
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=65, f(n)=g(n)+h(n)=71
+EIHFDCBJ
+AG
+
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=57, f(n)=g(n)+h(n)=64
+EIHFDCBJ
+A
+G
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=55, f(n)=g(n)+h(n)=63
+EIHFDCB
+AJ
+G
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=55, f(n)=g(n)+h(n)=64
+EIHFDC
+AJB
+G
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=59, f(n)=g(n)+h(n)=69
+EIHFD
+AJB
+GC
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=58, f(n)=g(n)+h(n)=69
+EIHFDB
+AJ
+GC
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=59, f(n)=g(n)+h(n)=71
+EIHFDBJ
+A
+GC
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=49, f(n)=g(n)+h(n)=62
+EIHFDBJ
+AC
+G
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=47, f(n)=g(n)+h(n)=61
+EIHFDB
+ACJ
+G
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=48, f(n)=g(n)+h(n)=63
+EIHFD
+ACJB
+G
+>>>>>>>>>>
+move 16, pathcost=16, heuristic=51, f(n)=g(n)+h(n)=67
+EIHF
+ACJBD
+G
+>>>>>>>>>>
+move 17, pathcost=17, heuristic=45, f(n)=g(n)+h(n)=62
+EIH
+ACJBD
+GF
+>>>>>>>>>>
+move 18, pathcost=18, heuristic=41, f(n)=g(n)+h(n)=59
+EIHD
+ACJB
+GF
+>>>>>>>>>>
+move 19, pathcost=19, heuristic=44, f(n)=g(n)+h(n)=63
+EIHD
+ACJ
+GFB
+>>>>>>>>>>
+move 20, pathcost=20, heuristic=39, f(n)=g(n)+h(n)=59
+EIHD
+AC
+GFBJ
+>>>>>>>>>>
+move 21, pathcost=21, heuristic=34, f(n)=g(n)+h(n)=55
+EIH
+AC
+GFBJD
+>>>>>>>>>>
+move 22, pathcost=22, heuristic=30, f(n)=g(n)+h(n)=52
+EI
+ACH
+GFBJD
+>>>>>>>>>>
+move 23, pathcost=23, heuristic=33, f(n)=g(n)+h(n)=56
+E
+ACHI
+GFBJD
+>>>>>>>>>>
+move 24, pathcost=24, heuristic=36, f(n)=g(n)+h(n)=60
+ED
+ACHI
+GFBJ
+>>>>>>>>>>
+move 25, pathcost=25, heuristic=39, f(n)=g(n)+h(n)=64
+EDJ
+ACHI
+GFB
+>>>>>>>>>>
+move 26, pathcost=26, heuristic=33, f(n)=g(n)+h(n)=59
+EDJB
+ACHI
+GF
+>>>>>>>>>>
+move 27, pathcost=27, heuristic=26, f(n)=g(n)+h(n)=53
+EDJB
+ACH
+GFI
+>>>>>>>>>>
+move 28, pathcost=28, heuristic=27, f(n)=g(n)+h(n)=55
+EDJ
+ACHB
+GFI
+>>>>>>>>>>
+move 29, pathcost=29, heuristic=22, f(n)=g(n)+h(n)=51
+ED
+ACHB
+GFIJ
+>>>>>>>>>>
+move 30, pathcost=30, heuristic=18, f(n)=g(n)+h(n)=48
+E
+ACHB
+GFIJD
+>>>>>>>>>>
+move 31, pathcost=31, heuristic=28, f(n)=g(n)+h(n)=59
+
+ACHB
+GFIJDE
+>>>>>>>>>>
+move 32, pathcost=32, heuristic=21, f(n)=g(n)+h(n)=53
+B
+ACH
+GFIJDE
+>>>>>>>>>>
+move 33, pathcost=33, heuristic=22, f(n)=g(n)+h(n)=55
+BH
+AC
+GFIJDE
+>>>>>>>>>>
+move 34, pathcost=34, heuristic=14, f(n)=g(n)+h(n)=48
+BHE
+AC
+GFIJD
+>>>>>>>>>>
+move 35, pathcost=35, heuristic=17, f(n)=g(n)+h(n)=52
+BHEC
+A
+GFIJD
+>>>>>>>>>>
+move 36, pathcost=36, heuristic=11, f(n)=g(n)+h(n)=47
+BHEC
+
+GFIJDA
+>>>>>>>>>>
+move 37, pathcost=37, heuristic=18, f(n)=g(n)+h(n)=55
+BHE
+
+GFIJDAC
+>>>>>>>>>>
+move 38, pathcost=38, heuristic=14, f(n)=g(n)+h(n)=52
+BH
+E
+GFIJDAC
+>>>>>>>>>>
+move 39, pathcost=39, heuristic=2, f(n)=g(n)+h(n)=41
+BH
+EC
+GFIJDA
+>>>>>>>>>>
+move 40, pathcost=40, heuristic=0, f(n)=g(n)+h(n)=40
+B
+ECH
+GFIJDA
+>>>>>>>>>>
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+success! iter=75, depth=4, max queue size=66
+move 0, pathcost=0, heuristic=8, f(n)=g(n)+h(n)=8
+
+DE
+BC
+
+A
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=4, f(n)=g(n)+h(n)=5
+
+D
+BC
+E
+A
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=2, f(n)=g(n)+h(n)=4
+
+D
+BCA
+E
+
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=0, f(n)=g(n)+h(n)=3
+
+
+BCA
+E
+D
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=0, f(n)=g(n)+h(n)=4
+
+E
+BCA
+
+D
+>>>>>>>>>>
+success! iter=56, depth=5, max queue size=50
+move 0, pathcost=0, heuristic=12, f(n)=g(n)+h(n)=12
+
+CD
+AE
+B
+
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=6, f(n)=g(n)+h(n)=7
+E
+CD
+A
+B
+
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=2, f(n)=g(n)+h(n)=4
+E
+CD
+
+B
+A
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=0, f(n)=g(n)+h(n)=3
+ED
+C
+
+B
+A
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=0, f(n)=g(n)+h(n)=4
+ED
+
+C
+B
+A
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=0, f(n)=g(n)+h(n)=5
+ED
+
+CB
+
+A
+>>>>>>>>>>
+success! iter=117, depth=5, max queue size=103
+move 0, pathcost=0, heuristic=11, f(n)=g(n)+h(n)=11
+ACD
+
+BE
+
+
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=6, f(n)=g(n)+h(n)=7
+AC
+D
+BE
+
+
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=2, f(n)=g(n)+h(n)=4
+A
+D
+BE
+C
+
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=2, f(n)=g(n)+h(n)=5
+A
+
+BED
+C
+
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=0, f(n)=g(n)+h(n)=4
+
+
+BEDA
+C
+
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=0, f(n)=g(n)+h(n)=5
+C
+
+BEDA
+
+
+>>>>>>>>>>
+success! iter=126, depth=8, max queue size=114
+move 0, pathcost=0, heuristic=18, f(n)=g(n)+h(n)=18
+A
+BC
+E
+
+D
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=10, f(n)=g(n)+h(n)=11
+A
+B
+E
+C
+D
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=6, f(n)=g(n)+h(n)=8
+A
+
+EB
+C
+D
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=4, f(n)=g(n)+h(n)=7
+
+
+EB
+CA
+D
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=2, f(n)=g(n)+h(n)=6
+B
+
+E
+CA
+D
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=0, f(n)=g(n)+h(n)=5
+BA
+
+E
+C
+D
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=0, f(n)=g(n)+h(n)=6
+BA
+C
+E
+
+D
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=0, f(n)=g(n)+h(n)=7
+BA
+CD
+E
+
+
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=0, f(n)=g(n)+h(n)=8
+BA
+CDE
+
+
+
+>>>>>>>>>>
+success! iter=73, depth=6, max queue size=66
+move 0, pathcost=0, heuristic=16, f(n)=g(n)+h(n)=16
+DE
+AB
+
+
+C
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=10, f(n)=g(n)+h(n)=11
+D
+AB
+E
+
+C
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=6, f(n)=g(n)+h(n)=8
+
+AB
+E
+D
+C
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=4, f(n)=g(n)+h(n)=7
+
+A
+EB
+D
+C
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=2, f(n)=g(n)+h(n)=6
+A
+
+EB
+D
+C
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=0, f(n)=g(n)+h(n)=5
+A
+B
+E
+D
+C
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=0, f(n)=g(n)+h(n)=6
+AC
+B
+E
+D
+
+>>>>>>>>>>
+success! iter=2648, depth=12, max queue size=2333
+move 0, pathcost=0, heuristic=18, f(n)=g(n)+h(n)=18
+
+BIJ
+CEH
+AD
+FG
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=17, f(n)=g(n)+h(n)=18
+
+BIJ
+CE
+ADH
+FG
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=19, f(n)=g(n)+h(n)=21
+
+BIJG
+CE
+ADH
+F
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=19, f(n)=g(n)+h(n)=22
+F
+BIJG
+CE
+ADH
+
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=15, f(n)=g(n)+h(n)=19
+F
+BIJ
+CE
+ADH
+G
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=12, f(n)=g(n)+h(n)=17
+FJ
+BI
+CE
+ADH
+G
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=8, f(n)=g(n)+h(n)=14
+FJH
+BI
+CE
+AD
+G
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=4, f(n)=g(n)+h(n)=11
+FJHE
+BI
+C
+AD
+G
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=4, f(n)=g(n)+h(n)=12
+FJHE
+BI
+
+AD
+GC
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=2, f(n)=g(n)+h(n)=11
+FJHE
+B
+I
+AD
+GC
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=2, f(n)=g(n)+h(n)=12
+FJHEB
+
+I
+AD
+GC
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=0, f(n)=g(n)+h(n)=11
+FJHEBC
+
+I
+AD
+G
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=0, f(n)=g(n)+h(n)=12
+FJHEBCG
+
+I
+AD
+
+>>>>>>>>>>
+success! iter=1185, depth=19, max queue size=1085
+move 0, pathcost=0, heuristic=28, f(n)=g(n)+h(n)=28
+ACIJ
+BG
+
+D
+EFH
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=25, f(n)=g(n)+h(n)=26
+ACIJ
+BGD
+
+
+EFH
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=24, f(n)=g(n)+h(n)=26
+ACIJ
+BGDH
+
+
+EF
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=20, f(n)=g(n)+h(n)=23
+ACIJ
+BGDH
+
+F
+E
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=18, f(n)=g(n)+h(n)=22
+ACIJ
+BGDH
+
+FE
+
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=19, f(n)=g(n)+h(n)=24
+ACI
+BGDHJ
+
+FE
+
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=16, f(n)=g(n)+h(n)=22
+AC
+BGDHJ
+
+FE
+I
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=16, f(n)=g(n)+h(n)=23
+A
+BGDHJ
+
+FE
+IC
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=15, f(n)=g(n)+h(n)=23
+A
+BGDH
+
+FE
+ICJ
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=15, f(n)=g(n)+h(n)=24
+
+BGDH
+A
+FE
+ICJ
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=11, f(n)=g(n)+h(n)=21
+H
+BGD
+A
+FE
+ICJ
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=10, f(n)=g(n)+h(n)=21
+HD
+BG
+A
+FE
+ICJ
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=8, f(n)=g(n)+h(n)=20
+HD
+B
+AG
+FE
+ICJ
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=6, f(n)=g(n)+h(n)=19
+H
+B
+AGD
+FE
+ICJ
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=4, f(n)=g(n)+h(n)=18
+HJ
+B
+AGD
+FE
+IC
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=4, f(n)=g(n)+h(n)=19
+HJ
+
+AGD
+FEB
+IC
+>>>>>>>>>>
+move 16, pathcost=16, heuristic=2, f(n)=g(n)+h(n)=18
+H
+J
+AGD
+FEB
+IC
+>>>>>>>>>>
+move 17, pathcost=17, heuristic=2, f(n)=g(n)+h(n)=19
+
+J
+AGDH
+FEB
+IC
+>>>>>>>>>>
+move 18, pathcost=18, heuristic=0, f(n)=g(n)+h(n)=18
+
+J
+AGDHC
+FEB
+I
+>>>>>>>>>>
+move 19, pathcost=19, heuristic=0, f(n)=g(n)+h(n)=19
+
+
+AGDHCJ
+FEB
+I
+>>>>>>>>>>
+success! iter=1117, depth=19, max queue size=1008
+move 0, pathcost=0, heuristic=54, f(n)=g(n)+h(n)=54
+AGHJ
+EI
+
+BCF
+D
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=42, f(n)=g(n)+h(n)=43
+AGHJ
+E
+
+BCF
+DI
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=33, f(n)=g(n)+h(n)=35
+AGHJ
+
+
+BCF
+DIE
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=31, f(n)=g(n)+h(n)=34
+AGH
+
+J
+BCF
+DIE
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=28, f(n)=g(n)+h(n)=32
+AG
+
+JH
+BCF
+DIE
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=30, f(n)=g(n)+h(n)=35
+AGE
+
+JH
+BCF
+DI
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=28, f(n)=g(n)+h(n)=34
+AGE
+I
+JH
+BCF
+D
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=23, f(n)=g(n)+h(n)=30
+AG
+IE
+JH
+BCF
+D
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=20, f(n)=g(n)+h(n)=28
+AG
+IE
+JH
+BC
+DF
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=19, f(n)=g(n)+h(n)=28
+A
+IE
+JH
+BC
+DFG
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=17, f(n)=g(n)+h(n)=27
+
+IEA
+JH
+BC
+DFG
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=14, f(n)=g(n)+h(n)=25
+G
+IEA
+JH
+BC
+DF
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=14, f(n)=g(n)+h(n)=26
+GH
+IEA
+J
+BC
+DF
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=10, f(n)=g(n)+h(n)=23
+GH
+IEAJ
+
+BC
+DF
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=8, f(n)=g(n)+h(n)=22
+GH
+IEAJF
+
+BC
+D
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=6, f(n)=g(n)+h(n)=21
+GH
+IEAJF
+
+B
+DC
+>>>>>>>>>>
+move 16, pathcost=16, heuristic=4, f(n)=g(n)+h(n)=20
+GH
+IEAJFB
+
+
+DC
+>>>>>>>>>>
+move 17, pathcost=17, heuristic=2, f(n)=g(n)+h(n)=19
+GH
+IEAJFB
+
+C
+D
+>>>>>>>>>>
+move 18, pathcost=18, heuristic=2, f(n)=g(n)+h(n)=20
+GH
+IEAJFB
+D
+C
+
+>>>>>>>>>>
+move 19, pathcost=19, heuristic=0, f(n)=g(n)+h(n)=19
+G
+IEAJFB
+DH
+C
+
+>>>>>>>>>>
+success! iter=313, depth=15, max queue size=290
+move 0, pathcost=0, heuristic=47, f(n)=g(n)+h(n)=47
+CFH
+
+AB
+DEGIJ
+
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=40, f(n)=g(n)+h(n)=41
+CFH
+
+AB
+DEGI
+J
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=34, f(n)=g(n)+h(n)=36
+CFH
+I
+AB
+DEG
+J
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=31, f(n)=g(n)+h(n)=34
+CFH
+I
+AB
+DE
+JG
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=32, f(n)=g(n)+h(n)=36
+CF
+I
+AB
+DE
+JGH
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=24, f(n)=g(n)+h(n)=29
+C
+IF
+AB
+DE
+JGH
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=20, f(n)=g(n)+h(n)=26
+C
+IFE
+AB
+D
+JGH
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=16, f(n)=g(n)+h(n)=23
+C
+IFEB
+A
+D
+JGH
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=14, f(n)=g(n)+h(n)=22
+
+IFEB
+AC
+D
+JGH
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=14, f(n)=g(n)+h(n)=23
+
+IFEB
+AC
+DH
+JG
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=12, f(n)=g(n)+h(n)=22
+G
+IFEB
+AC
+DH
+J
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=10, f(n)=g(n)+h(n)=21
+G
+IFEB
+A
+DH
+JC
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=8, f(n)=g(n)+h(n)=20
+GA
+IFEB
+
+DH
+JC
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=4, f(n)=g(n)+h(n)=17
+GAH
+IFEB
+
+D
+JC
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=2, f(n)=g(n)+h(n)=16
+GAH
+IFEB
+D
+
+JC
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=0, f(n)=g(n)+h(n)=15
+GAH
+IFEB
+D
+C
+J
+>>>>>>>>>>
+success! iter=467, depth=18, max queue size=433
+move 0, pathcost=0, heuristic=36, f(n)=g(n)+h(n)=36
+J
+ACFGI
+BH
+
+DE
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=24, f(n)=g(n)+h(n)=25
+J
+ACFGI
+BH
+E
+D
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=21, f(n)=g(n)+h(n)=23
+J
+ACFG
+BH
+EI
+D
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=19, f(n)=g(n)+h(n)=22
+JG
+ACF
+BH
+EI
+D
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=16, f(n)=g(n)+h(n)=20
+JG
+AC
+BH
+EI
+DF
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=17, f(n)=g(n)+h(n)=22
+JG
+ACI
+BH
+E
+DF
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=17, f(n)=g(n)+h(n)=23
+JG
+ACI
+BH
+
+DFE
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=15, f(n)=g(n)+h(n)=22
+J
+ACI
+BH
+G
+DFE
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=11, f(n)=g(n)+h(n)=19
+
+ACI
+BH
+G
+DFEJ
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=11, f(n)=g(n)+h(n)=20
+
+ACI
+B
+GH
+DFEJ
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=7, f(n)=g(n)+h(n)=17
+B
+ACI
+
+GH
+DFEJ
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=7, f(n)=g(n)+h(n)=18
+B
+AC
+
+GHI
+DFEJ
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=5, f(n)=g(n)+h(n)=17
+B
+A
+C
+GHI
+DFEJ
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=4, f(n)=g(n)+h(n)=17
+B
+AI
+C
+GH
+DFEJ
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=2, f(n)=g(n)+h(n)=16
+B
+AI
+CH
+G
+DFEJ
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=2, f(n)=g(n)+h(n)=17
+BG
+AI
+CH
+
+DFEJ
+>>>>>>>>>>
+move 16, pathcost=16, heuristic=0, f(n)=g(n)+h(n)=16
+BG
+A
+CH
+I
+DFEJ
+>>>>>>>>>>
+move 17, pathcost=17, heuristic=0, f(n)=g(n)+h(n)=17
+BG
+
+CH
+I
+DFEJA
+>>>>>>>>>>
+move 18, pathcost=18, heuristic=0, f(n)=g(n)+h(n)=18
+BG
+
+CH
+
+DFEJAI
+>>>>>>>>>>
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+Failure: Max iterations reaached
+success! iter=51165, depth=65, max queue size=45577
+move 0, pathcost=0, heuristic=252, f(n)=g(n)+h(n)=252
+FIJLO
+BEK
+DGQS
+ACHMPR
+NT
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=229, f(n)=g(n)+h(n)=230
+FIJLO
+BEK
+DGQS
+ACHMP
+NTR
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=208, f(n)=g(n)+h(n)=210
+FIJLO
+BEK
+DGQS
+ACHM
+NTRP
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=189, f(n)=g(n)+h(n)=192
+FIJLO
+BEK
+DGQS
+ACH
+NTRPM
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=172, f(n)=g(n)+h(n)=176
+FIJLO
+BEK
+DGQS
+AC
+NTRPMH
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=157, f(n)=g(n)+h(n)=162
+FIJLO
+BEK
+DGQS
+A
+NTRPMHC
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=145, f(n)=g(n)+h(n)=151
+FIJLO
+BEK
+DGQS
+
+NTRPMHCA
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=141, f(n)=g(n)+h(n)=148
+FIJL
+BEK
+DGQS
+
+NTRPMHCAO
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=129, f(n)=g(n)+h(n)=137
+FIJ
+BEK
+DGQS
+L
+NTRPMHCAO
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=128, f(n)=g(n)+h(n)=137
+FI
+BEKJ
+DGQS
+L
+NTRPMHCAO
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=130, f(n)=g(n)+h(n)=140
+FI
+BEKJ
+DGQSO
+L
+NTRPMHCA
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=125, f(n)=g(n)+h(n)=136
+FIA
+BEKJ
+DGQSO
+L
+NTRPMHC
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=122, f(n)=g(n)+h(n)=134
+FIA
+BEKJ
+DGQS
+L
+NTRPMHCO
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=121, f(n)=g(n)+h(n)=134
+FIA
+BEKJ
+DGQ
+L
+NTRPMHCOS
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=121, f(n)=g(n)+h(n)=135
+FIAJ
+BEK
+DGQ
+L
+NTRPMHCOS
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=122, f(n)=g(n)+h(n)=137
+FIAJ
+BEK
+DG
+L
+NTRPMHCOSQ
+>>>>>>>>>>
+move 16, pathcost=16, heuristic=116, f(n)=g(n)+h(n)=132
+FIAJ
+BE
+DGK
+L
+NTRPMHCOSQ
+>>>>>>>>>>
+move 17, pathcost=17, heuristic=116, f(n)=g(n)+h(n)=133
+FIAJ
+B
+DGKE
+L
+NTRPMHCOSQ
+>>>>>>>>>>
+move 18, pathcost=18, heuristic=110, f(n)=g(n)+h(n)=128
+FIAJ
+
+DGKE
+LB
+NTRPMHCOSQ
+>>>>>>>>>>
+move 19, pathcost=19, heuristic=100, f(n)=g(n)+h(n)=119
+FIAJ
+Q
+DGKE
+LB
+NTRPMHCOS
+>>>>>>>>>>
+move 20, pathcost=20, heuristic=91, f(n)=g(n)+h(n)=111
+FIAJ
+QS
+DGKE
+LB
+NTRPMHCO
+>>>>>>>>>>
+move 21, pathcost=21, heuristic=87, f(n)=g(n)+h(n)=108
+FIA
+QSJ
+DGKE
+LB
+NTRPMHCO
+>>>>>>>>>>
+move 22, pathcost=22, heuristic=92, f(n)=g(n)+h(n)=114
+FI
+QSJA
+DGKE
+LB
+NTRPMHCO
+>>>>>>>>>>
+move 23, pathcost=23, heuristic=91, f(n)=g(n)+h(n)=114
+F
+QSJA
+DGKE
+LB
+NTRPMHCOI
+>>>>>>>>>>
+move 24, pathcost=24, heuristic=92, f(n)=g(n)+h(n)=116
+
+QSJAF
+DGKE
+LB
+NTRPMHCOI
+>>>>>>>>>>
+move 25, pathcost=25, heuristic=83, f(n)=g(n)+h(n)=108
+I
+QSJAF
+DGKE
+LB
+NTRPMHCO
+>>>>>>>>>>
+move 26, pathcost=26, heuristic=83, f(n)=g(n)+h(n)=109
+IO
+QSJAF
+DGKE
+LB
+NTRPMHC
+>>>>>>>>>>
+move 27, pathcost=27, heuristic=82, f(n)=g(n)+h(n)=109
+IO
+QSJA
+DGKE
+LB
+NTRPMHCF
+>>>>>>>>>>
+move 28, pathcost=28, heuristic=76, f(n)=g(n)+h(n)=104
+IOA
+QSJ
+DGKE
+LB
+NTRPMHCF
+>>>>>>>>>>
+move 29, pathcost=29, heuristic=79, f(n)=g(n)+h(n)=108
+IOAJ
+QS
+DGKE
+LB
+NTRPMHCF
+>>>>>>>>>>
+move 30, pathcost=30, heuristic=71, f(n)=g(n)+h(n)=101
+IOAJ
+QSF
+DGKE
+LB
+NTRPMHC
+>>>>>>>>>>
+move 31, pathcost=31, heuristic=68, f(n)=g(n)+h(n)=99
+IOA
+QSFJ
+DGKE
+LB
+NTRPMHC
+>>>>>>>>>>
+move 32, pathcost=32, heuristic=74, f(n)=g(n)+h(n)=106
+IO
+QSFJA
+DGKE
+LB
+NTRPMHC
+>>>>>>>>>>
+move 33, pathcost=33, heuristic=75, f(n)=g(n)+h(n)=108
+I
+QSFJAO
+DGKE
+LB
+NTRPMHC
+>>>>>>>>>>
+move 34, pathcost=34, heuristic=68, f(n)=g(n)+h(n)=102
+IC
+QSFJAO
+DGKE
+LB
+NTRPMH
+>>>>>>>>>>
+move 35, pathcost=35, heuristic=67, f(n)=g(n)+h(n)=102
+IC
+QSFJAO
+DGK
+LB
+NTRPMHE
+>>>>>>>>>>
+move 36, pathcost=36, heuristic=66, f(n)=g(n)+h(n)=102
+IC
+QSFJA
+DGK
+LB
+NTRPMHEO
+>>>>>>>>>>
+move 37, pathcost=37, heuristic=58, f(n)=g(n)+h(n)=95
+ICA
+QSFJ
+DGK
+LB
+NTRPMHEO
+>>>>>>>>>>
+move 38, pathcost=38, heuristic=63, f(n)=g(n)+h(n)=101
+ICA
+QSFJK
+DG
+LB
+NTRPMHEO
+>>>>>>>>>>
+move 39, pathcost=39, heuristic=63, f(n)=g(n)+h(n)=102
+ICAG
+QSFJK
+D
+LB
+NTRPMHEO
+>>>>>>>>>>
+move 40, pathcost=40, heuristic=57, f(n)=g(n)+h(n)=97
+ICAG
+QSFJK
+DO
+LB
+NTRPMHE
+>>>>>>>>>>
+move 41, pathcost=41, heuristic=50, f(n)=g(n)+h(n)=91
+ICAG
+QSFJ
+DOK
+LB
+NTRPMHE
+>>>>>>>>>>
+move 42, pathcost=42, heuristic=50, f(n)=g(n)+h(n)=92
+ICAG
+QSFJ
+DOKE
+LB
+NTRPMH
+>>>>>>>>>>
+move 43, pathcost=43, heuristic=52, f(n)=g(n)+h(n)=95
+ICAG
+QSFJH
+DOKE
+LB
+NTRPM
+>>>>>>>>>>
+move 44, pathcost=44, heuristic=56, f(n)=g(n)+h(n)=100
+ICAG
+QSFJHM
+DOKE
+LB
+NTRP
+>>>>>>>>>>
+move 45, pathcost=45, heuristic=52, f(n)=g(n)+h(n)=97
+ICAG
+QSFJHM
+DOKE
+LBP
+NTR
+>>>>>>>>>>
+move 46, pathcost=46, heuristic=49, f(n)=g(n)+h(n)=95
+ICAG
+QSFJHM
+DOKE
+LBPR
+NT
+>>>>>>>>>>
+move 47, pathcost=47, heuristic=41, f(n)=g(n)+h(n)=88
+ICA
+QSFJHM
+DOKE
+LBPRG
+NT
+>>>>>>>>>>
+move 48, pathcost=48, heuristic=32, f(n)=g(n)+h(n)=80
+ICA
+QSFJH
+DOKE
+LBPRGM
+NT
+>>>>>>>>>>
+move 49, pathcost=49, heuristic=30, f(n)=g(n)+h(n)=79
+ICAT
+QSFJH
+DOKE
+LBPRGM
+N
+>>>>>>>>>>
+move 50, pathcost=50, heuristic=24, f(n)=g(n)+h(n)=74
+ICAT
+QSFJ
+DOKE
+LBPRGM
+NH
+>>>>>>>>>>
+move 51, pathcost=51, heuristic=20, f(n)=g(n)+h(n)=71
+ICAT
+QSFJ
+DOK
+LBPRGM
+NHE
+>>>>>>>>>>
+move 52, pathcost=52, heuristic=23, f(n)=g(n)+h(n)=75
+ICAT
+QSFJ
+DO
+LBPRGM
+NHEK
+>>>>>>>>>>
+move 53, pathcost=53, heuristic=26, f(n)=g(n)+h(n)=79
+ICAT
+QSFJ
+D
+LBPRGM
+NHEKO
+>>>>>>>>>>
+move 54, pathcost=54, heuristic=20, f(n)=g(n)+h(n)=74
+ICAT
+QSFJ
+
+LBPRGMD
+NHEKO
+>>>>>>>>>>
+move 55, pathcost=55, heuristic=20, f(n)=g(n)+h(n)=75
+ICAT
+QSF
+J
+LBPRGMD
+NHEKO
+>>>>>>>>>>
+move 56, pathcost=56, heuristic=17, f(n)=g(n)+h(n)=73
+ICAT
+QSF
+JO
+LBPRGMD
+NHEK
+>>>>>>>>>>
+move 57, pathcost=57, heuristic=19, f(n)=g(n)+h(n)=76
+ICAT
+QSFK
+JO
+LBPRGMD
+NHE
+>>>>>>>>>>
+move 58, pathcost=58, heuristic=16, f(n)=g(n)+h(n)=74
+ICAT
+QSFK
+JO
+LBPRGMDE
+NH
+>>>>>>>>>>
+move 59, pathcost=59, heuristic=17, f(n)=g(n)+h(n)=76
+ICAT
+QSFK
+J
+LBPRGMDE
+NHO
+>>>>>>>>>>
+move 60, pathcost=60, heuristic=11, f(n)=g(n)+h(n)=71
+ICAT
+QSFK
+
+LBPRGMDEJ
+NHO
+>>>>>>>>>>
+move 61, pathcost=61, heuristic=16, f(n)=g(n)+h(n)=77
+ICAT
+QSFKO
+
+LBPRGMDEJ
+NH
+>>>>>>>>>>
+move 62, pathcost=62, heuristic=14, f(n)=g(n)+h(n)=76
+ICAT
+QSFKO
+
+LBPRGMDEJH
+N
+>>>>>>>>>>
+move 63, pathcost=63, heuristic=14, f(n)=g(n)+h(n)=77
+ICAT
+QSFKO
+N
+LBPRGMDEJH
+
+>>>>>>>>>>
+move 64, pathcost=64, heuristic=6, f(n)=g(n)+h(n)=70
+ICAT
+QSFK
+NO
+LBPRGMDEJH
+
+>>>>>>>>>>
+move 65, pathcost=65, heuristic=0, f(n)=g(n)+h(n)=65
+ICAT
+QSF
+NOK
+LBPRGMDEJH
+
+>>>>>>>>>>
+success! iter=17877, depth=5, max queue size=16619
+move 0, pathcost=0, heuristic=4, f(n)=g(n)+h(n)=4
+
+
+
+
+
+
+D
+BC
+
+AE
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=2, f(n)=g(n)+h(n)=3
+
+C
+
+
+
+
+D
+B
+
+AE
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=2, f(n)=g(n)+h(n)=4
+
+C
+
+
+
+
+
+B
+D
+AE
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=0, f(n)=g(n)+h(n)=3
+
+C
+
+
+
+
+
+B
+DE
+A
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=0, f(n)=g(n)+h(n)=4
+
+C
+
+
+
+
+
+
+DEB
+A
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=0, f(n)=g(n)+h(n)=5
+C
+
+
+
+
+
+
+
+DEB
+A
+>>>>>>>>>>
+success! iter=1148, depth=4, max queue size=1101
+move 0, pathcost=0, heuristic=6, f(n)=g(n)+h(n)=6
+
+
+
+
+
+
+A
+BE
+D
+C
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=2, f(n)=g(n)+h(n)=3
+E
+
+
+
+
+
+A
+B
+D
+C
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=0, f(n)=g(n)+h(n)=2
+E
+
+
+
+
+
+A
+
+DB
+C
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=0, f(n)=g(n)+h(n)=3
+E
+
+
+
+
+
+
+A
+DB
+C
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=0, f(n)=g(n)+h(n)=4
+E
+
+
+
+
+C
+
+A
+DB
+
+>>>>>>>>>>
+success! iter=1730, depth=4, max queue size=1667
+move 0, pathcost=0, heuristic=2, f(n)=g(n)+h(n)=2
+
+A
+B
+
+E
+D
+
+
+
+C
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=0, f(n)=g(n)+h(n)=1
+
+A
+
+B
+E
+D
+
+
+
+C
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=0, f(n)=g(n)+h(n)=2
+
+A
+
+B
+E
+
+
+D
+
+C
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=0, f(n)=g(n)+h(n)=3
+
+
+
+B
+E
+
+A
+D
+
+C
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=0, f(n)=g(n)+h(n)=4
+
+
+C
+B
+E
+
+A
+D
+
+
+>>>>>>>>>>
+success! iter=28660, depth=6, max queue size=26669
+move 0, pathcost=0, heuristic=5, f(n)=g(n)+h(n)=5
+
+
+
+
+E
+
+B
+
+ACD
+
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=2, f(n)=g(n)+h(n)=3
+
+
+D
+
+E
+
+B
+
+AC
+
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=0, f(n)=g(n)+h(n)=2
+
+
+D
+
+E
+
+B
+C
+A
+
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=0, f(n)=g(n)+h(n)=3
+
+E
+D
+
+
+
+B
+C
+A
+
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=0, f(n)=g(n)+h(n)=4
+
+E
+D
+B
+
+
+
+C
+A
+
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=0, f(n)=g(n)+h(n)=5
+
+E
+
+B
+
+
+
+CD
+A
+
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=0, f(n)=g(n)+h(n)=6
+
+E
+
+B
+
+
+
+CDA
+
+
+>>>>>>>>>>
+success! iter=8645, depth=5, max queue size=8242
+move 0, pathcost=0, heuristic=2, f(n)=g(n)+h(n)=2
+E
+D
+
+
+AC
+
+
+
+
+B
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=0, f(n)=g(n)+h(n)=1
+E
+D
+
+
+A
+
+C
+
+
+B
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=0, f(n)=g(n)+h(n)=2
+E
+D
+
+
+
+
+C
+A
+
+B
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=0, f(n)=g(n)+h(n)=3
+E
+
+
+
+
+
+C
+AD
+
+B
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=0, f(n)=g(n)+h(n)=4
+
+
+
+
+
+
+C
+AD
+E
+B
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=0, f(n)=g(n)+h(n)=5
+
+
+B
+
+
+
+C
+AD
+E
+
+>>>>>>>>>>
+success! iter=3104, depth=12, max queue size=3042
+move 0, pathcost=0, heuristic=24, f(n)=g(n)+h(n)=24
+D
+I
+H
+
+E
+B
+F
+AG
+J
+C
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=18, f(n)=g(n)+h(n)=19
+D
+I
+H
+B
+E
+
+F
+AG
+J
+C
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=14, f(n)=g(n)+h(n)=16
+D
+I
+H
+B
+E
+
+F
+AG
+
+CJ
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=10, f(n)=g(n)+h(n)=13
+D
+I
+H
+B
+E
+
+F
+A
+G
+CJ
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=8, f(n)=g(n)+h(n)=12
+D
+I
+H
+B
+
+E
+F
+A
+G
+CJ
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=6, f(n)=g(n)+h(n)=11
+D
+I
+H
+B
+
+EJ
+F
+A
+G
+C
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=4, f(n)=g(n)+h(n)=10
+
+I
+H
+B
+
+EJD
+F
+A
+G
+C
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=2, f(n)=g(n)+h(n)=9
+A
+I
+H
+B
+
+EJD
+F
+
+G
+C
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=2, f(n)=g(n)+h(n)=10
+A
+I
+H
+B
+
+EJD
+F
+
+GC
+
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=0, f(n)=g(n)+h(n)=9
+A
+
+H
+B
+
+EJD
+F
+
+GCI
+
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=0, f(n)=g(n)+h(n)=10
+A
+H
+
+B
+
+EJD
+F
+
+GCI
+
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=0, f(n)=g(n)+h(n)=11
+A
+H
+
+
+
+EJD
+F
+B
+GCI
+
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=0, f(n)=g(n)+h(n)=12
+A
+H
+
+
+F
+EJD
+
+B
+GCI
+
+>>>>>>>>>>
+Failure: Max iterations reaached
+success! iter=1376, depth=12, max queue size=1350
+move 0, pathcost=0, heuristic=24, f(n)=g(n)+h(n)=24
+
+
+
+FHI
+
+BJ
+A
+CDE
+G
+
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=21, f(n)=g(n)+h(n)=22
+
+
+
+FH
+
+BJ
+A
+CDE
+G
+I
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=18, f(n)=g(n)+h(n)=20
+
+
+E
+FH
+
+BJ
+A
+CD
+G
+I
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=16, f(n)=g(n)+h(n)=19
+
+G
+E
+FH
+
+BJ
+A
+CD
+
+I
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=16, f(n)=g(n)+h(n)=20
+
+G
+E
+FH
+
+B
+A
+CD
+J
+I
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=8, f(n)=g(n)+h(n)=13
+
+G
+E
+FH
+B
+
+A
+CD
+J
+I
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=6, f(n)=g(n)+h(n)=12
+
+G
+E
+FH
+B
+D
+A
+C
+J
+I
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=4, f(n)=g(n)+h(n)=11
+
+G
+E
+FH
+B
+DJ
+A
+C
+
+I
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=4, f(n)=g(n)+h(n)=12
+
+G
+
+FH
+B
+DJE
+A
+C
+
+I
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=2, f(n)=g(n)+h(n)=11
+
+G
+
+FH
+B
+DJEA
+
+C
+
+I
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=0, f(n)=g(n)+h(n)=10
+
+G
+
+F
+B
+DJEA
+H
+C
+
+I
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=0, f(n)=g(n)+h(n)=11
+F
+G
+
+
+B
+DJEA
+H
+C
+
+I
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=0, f(n)=g(n)+h(n)=12
+F
+G
+
+
+B
+DJEA
+H
+
+C
+I
+>>>>>>>>>>
+success! iter=4262, depth=14, max queue size=4178
+move 0, pathcost=0, heuristic=38, f(n)=g(n)+h(n)=38
+FH
+CJ
+
+
+I
+AB
+DE
+G
+
+
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=30, f(n)=g(n)+h(n)=31
+FH
+CJ
+
+
+I
+A
+DE
+G
+B
+
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=24, f(n)=g(n)+h(n)=26
+F
+CJ
+
+
+I
+A
+DE
+G
+B
+H
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=18, f(n)=g(n)+h(n)=21
+F
+CJ
+A
+
+I
+
+DE
+G
+B
+H
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=14, f(n)=g(n)+h(n)=18
+F
+C
+AJ
+
+I
+
+DE
+G
+B
+H
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=10, f(n)=g(n)+h(n)=15
+F
+
+AJ
+
+I
+C
+DE
+G
+B
+H
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=8, f(n)=g(n)+h(n)=14
+
+
+AJ
+F
+I
+C
+DE
+G
+B
+H
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=6, f(n)=g(n)+h(n)=13
+
+
+AJ
+F
+
+CI
+DE
+G
+B
+H
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=4, f(n)=g(n)+h(n)=12
+
+
+A
+F
+J
+CI
+DE
+G
+B
+H
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=2, f(n)=g(n)+h(n)=11
+
+
+A
+F
+J
+CIE
+D
+G
+B
+H
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=2, f(n)=g(n)+h(n)=12
+D
+
+A
+F
+J
+CIE
+
+G
+B
+H
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=0, f(n)=g(n)+h(n)=11
+DF
+
+A
+
+J
+CIE
+
+G
+B
+H
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=0, f(n)=g(n)+h(n)=12
+DF
+
+A
+G
+J
+CIE
+
+
+B
+H
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=0, f(n)=g(n)+h(n)=13
+DF
+B
+A
+G
+J
+CIE
+
+
+
+H
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=0, f(n)=g(n)+h(n)=14
+DF
+BH
+A
+G
+J
+CIE
+
+
+
+
+>>>>>>>>>>
+Failure: Max iterations reaached
+success! iter=2783, depth=26, max queue size=2739
+move 0, pathcost=0, heuristic=117, f(n)=g(n)+h(n)=117
+K
+
+ABCGP
+EL
+JQR
+
+DFMT
+N
+HIOS
+
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=101, f(n)=g(n)+h(n)=102
+K
+
+ABCGP
+EL
+JQR
+
+DFMT
+
+HIOS
+N
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=87, f(n)=g(n)+h(n)=89
+K
+
+ABCGP
+EL
+JQR
+
+DFMT
+
+HIO
+NS
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=72, f(n)=g(n)+h(n)=75
+K
+
+ABCGP
+EL
+JQR
+
+DFMT
+O
+HI
+NS
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=58, f(n)=g(n)+h(n)=62
+K
+
+ABCGP
+EL
+JQR
+
+DFMT
+OI
+H
+NS
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=48, f(n)=g(n)+h(n)=53
+K
+H
+ABCGP
+EL
+JQR
+
+DFMT
+OI
+
+NS
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=43, f(n)=g(n)+h(n)=49
+K
+H
+ABCG
+EL
+JQR
+
+DFMT
+OI
+P
+NS
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=39, f(n)=g(n)+h(n)=46
+K
+H
+ABC
+EL
+JQR
+
+DFMT
+OIG
+P
+NS
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=35, f(n)=g(n)+h(n)=43
+
+H
+ABC
+EL
+JQR
+
+DFMT
+OIGK
+P
+NS
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=31, f(n)=g(n)+h(n)=40
+
+H
+ABC
+EL
+JQR
+
+DFM
+OIGKT
+P
+NS
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=26, f(n)=g(n)+h(n)=36
+
+H
+ABC
+EL
+JQ
+
+DFM
+OIGKTR
+P
+NS
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=24, f(n)=g(n)+h(n)=35
+
+H
+ABC
+E
+JQ
+L
+DFM
+OIGKTR
+P
+NS
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=22, f(n)=g(n)+h(n)=34
+
+H
+ABC
+
+JQ
+L
+DFM
+OIGKTRE
+P
+NS
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=20, f(n)=g(n)+h(n)=33
+
+
+ABC
+H
+JQ
+L
+DFM
+OIGKTRE
+P
+NS
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=18, f(n)=g(n)+h(n)=32
+
+Q
+ABC
+H
+J
+L
+DFM
+OIGKTRE
+P
+NS
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=16, f(n)=g(n)+h(n)=31
+
+Q
+ABC
+H
+
+L
+DFM
+OIGKTREJ
+P
+NS
+>>>>>>>>>>
+move 16, pathcost=16, heuristic=13, f(n)=g(n)+h(n)=29
+
+Q
+AB
+H
+C
+L
+DFM
+OIGKTREJ
+P
+NS
+>>>>>>>>>>
+move 17, pathcost=17, heuristic=11, f(n)=g(n)+h(n)=28
+B
+Q
+A
+H
+C
+L
+DFM
+OIGKTREJ
+P
+NS
+>>>>>>>>>>
+move 18, pathcost=18, heuristic=8, f(n)=g(n)+h(n)=26
+BM
+Q
+A
+H
+C
+L
+DF
+OIGKTREJ
+P
+NS
+>>>>>>>>>>
+move 19, pathcost=19, heuristic=6, f(n)=g(n)+h(n)=25
+BM
+Q
+A
+H
+C
+L
+DF
+OIGKTREJ
+PS
+N
+>>>>>>>>>>
+move 20, pathcost=20, heuristic=4, f(n)=g(n)+h(n)=24
+BM
+
+A
+H
+C
+L
+DF
+OIGKTREJ
+PSQ
+N
+>>>>>>>>>>
+move 21, pathcost=21, heuristic=2, f(n)=g(n)+h(n)=23
+BM
+
+A
+H
+C
+
+DF
+OIGKTREJ
+PSQL
+N
+>>>>>>>>>>
+move 22, pathcost=22, heuristic=2, f(n)=g(n)+h(n)=24
+BM
+A
+
+H
+C
+
+DF
+OIGKTREJ
+PSQL
+N
+>>>>>>>>>>
+move 23, pathcost=23, heuristic=0, f(n)=g(n)+h(n)=23
+BM
+A
+F
+H
+C
+
+D
+OIGKTREJ
+PSQL
+N
+>>>>>>>>>>
+move 24, pathcost=24, heuristic=0, f(n)=g(n)+h(n)=24
+BM
+A
+F
+H
+C
+N
+D
+OIGKTREJ
+PSQL
+
+>>>>>>>>>>
+move 25, pathcost=25, heuristic=0, f(n)=g(n)+h(n)=25
+BM
+A
+F
+H
+C
+N
+
+OIGKTREJ
+PSQLD
+
+>>>>>>>>>>
+move 26, pathcost=26, heuristic=0, f(n)=g(n)+h(n)=26
+BM
+A
+
+H
+C
+N
+
+OIGKTREJ
+PSQLDF
+
+>>>>>>>>>>
+Failure: Max iterations reaached
+success! iter=28923, depth=43, max queue size=28526
+move 0, pathcost=0, heuristic=142, f(n)=g(n)+h(n)=142
+AIJK
+DGLPT
+Q
+B
+
+NO
+
+CES
+MR
+FH
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=127, f(n)=g(n)+h(n)=128
+AIJK
+DGLP
+Q
+B
+
+NO
+T
+CES
+MR
+FH
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=115, f(n)=g(n)+h(n)=117
+AIJK
+DGL
+Q
+BP
+
+NO
+T
+CES
+MR
+FH
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=104, f(n)=g(n)+h(n)=107
+AIJK
+DG
+Q
+BP
+L
+NO
+T
+CES
+MR
+FH
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=94, f(n)=g(n)+h(n)=98
+AIJK
+D
+Q
+BP
+L
+NO
+TG
+CES
+MR
+FH
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=85, f(n)=g(n)+h(n)=90
+AIJK
+D
+Q
+BPH
+L
+NO
+TG
+CES
+MR
+F
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=77, f(n)=g(n)+h(n)=83
+AIJK
+DF
+Q
+BPH
+L
+NO
+TG
+CES
+MR
+
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=69, f(n)=g(n)+h(n)=76
+AIJ
+DF
+Q
+BPH
+L
+NO
+TG
+CES
+MR
+K
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=62, f(n)=g(n)+h(n)=70
+AIJ
+DF
+
+BPH
+L
+NOQ
+TG
+CES
+MR
+K
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=58, f(n)=g(n)+h(n)=67
+AI
+DF
+
+BPH
+L
+NOQ
+TGJ
+CES
+MR
+K
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=54, f(n)=g(n)+h(n)=64
+AI
+DF
+
+BPH
+L
+NOQ
+TGJ
+CE
+MRS
+K
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=51, f(n)=g(n)+h(n)=62
+AI
+DF
+H
+BP
+L
+NOQ
+TGJ
+CE
+MRS
+K
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=48, f(n)=g(n)+h(n)=60
+A
+DF
+H
+BPI
+L
+NOQ
+TGJ
+CE
+MRS
+K
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=46, f(n)=g(n)+h(n)=59
+A
+DF
+H
+BPI
+L
+NOQ
+TGJ
+C
+MRSE
+K
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=44, f(n)=g(n)+h(n)=58
+AC
+DF
+H
+BPI
+L
+NOQ
+TGJ
+
+MRSE
+K
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=41, f(n)=g(n)+h(n)=56
+AC
+DF
+H
+BP
+L
+NOQ
+TGJ
+I
+MRSE
+K
+>>>>>>>>>>
+move 16, pathcost=16, heuristic=42, f(n)=g(n)+h(n)=58
+AC
+D
+H
+BPF
+L
+NOQ
+TGJ
+I
+MRSE
+K
+>>>>>>>>>>
+move 17, pathcost=17, heuristic=36, f(n)=g(n)+h(n)=53
+AC
+
+H
+BPF
+LD
+NOQ
+TGJ
+I
+MRSE
+K
+>>>>>>>>>>
+move 18, pathcost=18, heuristic=37, f(n)=g(n)+h(n)=55
+AC
+
+H
+BP
+LD
+NOQ
+TGJ
+IF
+MRSE
+K
+>>>>>>>>>>
+move 19, pathcost=19, heuristic=35, f(n)=g(n)+h(n)=54
+AC
+P
+H
+B
+LD
+NOQ
+TGJ
+IF
+MRSE
+K
+>>>>>>>>>>
+move 20, pathcost=20, heuristic=31, f(n)=g(n)+h(n)=51
+AC
+PF
+H
+B
+LD
+NOQ
+TGJ
+I
+MRSE
+K
+>>>>>>>>>>
+move 21, pathcost=21, heuristic=29, f(n)=g(n)+h(n)=50
+AC
+PF
+H
+BE
+LD
+NOQ
+TGJ
+I
+MRS
+K
+>>>>>>>>>>
+move 22, pathcost=22, heuristic=29, f(n)=g(n)+h(n)=51
+AC
+PF
+H
+BES
+LD
+NOQ
+TGJ
+I
+MR
+K
+>>>>>>>>>>
+move 23, pathcost=23, heuristic=27, f(n)=g(n)+h(n)=50
+AC
+PF
+HR
+BES
+LD
+NOQ
+TGJ
+I
+M
+K
+>>>>>>>>>>
+move 24, pathcost=24, heuristic=24, f(n)=g(n)+h(n)=48
+AC
+PF
+HRJ
+BES
+LD
+NOQ
+TG
+I
+M
+K
+>>>>>>>>>>
+move 25, pathcost=25, heuristic=22, f(n)=g(n)+h(n)=47
+AC
+PF
+HRJ
+BES
+L
+NOQ
+TG
+I
+MD
+K
+>>>>>>>>>>
+move 26, pathcost=26, heuristic=23, f(n)=g(n)+h(n)=49
+A
+PF
+HRJ
+BES
+L
+NOQ
+TGC
+I
+MD
+K
+>>>>>>>>>>
+move 27, pathcost=27, heuristic=22, f(n)=g(n)+h(n)=49
+
+PF
+HRJ
+BES
+L
+NOQ
+TGC
+I
+MDA
+K
+>>>>>>>>>>
+move 28, pathcost=28, heuristic=20, f(n)=g(n)+h(n)=48
+L
+PF
+HRJ
+BES
+
+NOQ
+TGC
+I
+MDA
+K
+>>>>>>>>>>
+move 29, pathcost=29, heuristic=17, f(n)=g(n)+h(n)=46
+LC
+PF
+HRJ
+BES
+
+NOQ
+TG
+I
+MDA
+K
+>>>>>>>>>>
+move 30, pathcost=30, heuristic=14, f(n)=g(n)+h(n)=44
+LC
+PF
+HRJ
+BES
+A
+NOQ
+TG
+I
+MD
+K
+>>>>>>>>>>
+move 31, pathcost=31, heuristic=14, f(n)=g(n)+h(n)=45
+LC
+PF
+HRJ
+BES
+AG
+NOQ
+T
+I
+MD
+K
+>>>>>>>>>>
+move 32, pathcost=32, heuristic=14, f(n)=g(n)+h(n)=46
+LC
+PF
+HRJ
+BES
+AG
+NOQ
+
+I
+MD
+KT
+>>>>>>>>>>
+move 33, pathcost=33, heuristic=11, f(n)=g(n)+h(n)=44
+LC
+PF
+HRJ
+BES
+AG
+NO
+Q
+I
+MD
+KT
+>>>>>>>>>>
+move 34, pathcost=34, heuristic=9, f(n)=g(n)+h(n)=43
+LC
+PF
+HRJ
+BES
+AG
+N
+Q
+I
+MD
+KTO
+>>>>>>>>>>
+move 35, pathcost=35, heuristic=6, f(n)=g(n)+h(n)=41
+LC
+PF
+HRJ
+BE
+AG
+N
+Q
+I
+MD
+KTOS
+>>>>>>>>>>
+move 36, pathcost=36, heuristic=6, f(n)=g(n)+h(n)=42
+LC
+PF
+HRJ
+BE
+AG
+
+Q
+IN
+MD
+KTOS
+>>>>>>>>>>
+move 37, pathcost=37, heuristic=4, f(n)=g(n)+h(n)=41
+LC
+PF
+HRJ
+B
+AG
+E
+Q
+IN
+MD
+KTOS
+>>>>>>>>>>
+move 38, pathcost=38, heuristic=4, f(n)=g(n)+h(n)=42
+LC
+PFB
+HRJ
+
+AG
+E
+Q
+IN
+MD
+KTOS
+>>>>>>>>>>
+move 39, pathcost=39, heuristic=2, f(n)=g(n)+h(n)=41
+LC
+PFBG
+HRJ
+
+A
+E
+Q
+IN
+MD
+KTOS
+>>>>>>>>>>
+move 40, pathcost=40, heuristic=0, f(n)=g(n)+h(n)=40
+LC
+PFBGD
+HRJ
+
+A
+E
+Q
+IN
+M
+KTOS
+>>>>>>>>>>
+move 41, pathcost=41, heuristic=0, f(n)=g(n)+h(n)=41
+LC
+PFBGD
+HRJ
+
+A
+E
+
+IN
+M
+KTOSQ
+>>>>>>>>>>
+move 42, pathcost=42, heuristic=0, f(n)=g(n)+h(n)=42
+LC
+PFBGD
+HRJM
+
+A
+E
+
+IN
+
+KTOSQ
+>>>>>>>>>>
+move 43, pathcost=43, heuristic=0, f(n)=g(n)+h(n)=43
+LC
+PFBGD
+HRJME
+
+A
+
+
+IN
+
+KTOSQ
+>>>>>>>>>>
+success! iter=14017, depth=43, max queue size=13794
+move 0, pathcost=0, heuristic=104, f(n)=g(n)+h(n)=104
+FGIKT
+BHO
+J
+LQ
+
+AENR
+CP
+D
+S
+M
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=96, f(n)=g(n)+h(n)=97
+FGIKT
+BHO
+J
+LQ
+
+AENR
+C
+DP
+S
+M
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=90, f(n)=g(n)+h(n)=92
+FGIK
+BHO
+J
+LQ
+
+AENR
+C
+DPT
+S
+M
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=84, f(n)=g(n)+h(n)=87
+FGIK
+BHO
+J
+LQ
+M
+AENR
+C
+DPT
+S
+
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=76, f(n)=g(n)+h(n)=80
+FGI
+BHO
+J
+LQ
+M
+AENR
+C
+DPT
+S
+K
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=71, f(n)=g(n)+h(n)=76
+FGI
+BHO
+J
+LQC
+M
+AENR
+
+DPT
+S
+K
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=68, f(n)=g(n)+h(n)=74
+FG
+BHO
+JI
+LQC
+M
+AENR
+
+DPT
+S
+K
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=65, f(n)=g(n)+h(n)=72
+FG
+BH
+JI
+LQC
+M
+AENR
+
+DPTO
+S
+K
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=64, f(n)=g(n)+h(n)=72
+F
+BH
+JIG
+LQC
+M
+AENR
+
+DPTO
+S
+K
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=60, f(n)=g(n)+h(n)=69
+FH
+B
+JIG
+LQC
+M
+AENR
+
+DPTO
+S
+K
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=58, f(n)=g(n)+h(n)=68
+FH
+
+JIG
+LQC
+M
+AENR
+
+DPTO
+SB
+K
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=58, f(n)=g(n)+h(n)=69
+FH
+O
+JIG
+LQC
+M
+AENR
+
+DPT
+SB
+K
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=57, f(n)=g(n)+h(n)=69
+FH
+OT
+JIG
+LQC
+M
+AENR
+
+DP
+SB
+K
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=55, f(n)=g(n)+h(n)=68
+FH
+OT
+JI
+LQC
+M
+AENR
+
+DPG
+SB
+K
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=55, f(n)=g(n)+h(n)=69
+FH
+OT
+J
+LQC
+M
+AENR
+
+DPGI
+SB
+K
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=53, f(n)=g(n)+h(n)=68
+FH
+OT
+
+LQC
+MJ
+AENR
+
+DPGI
+SB
+K
+>>>>>>>>>>
+move 16, pathcost=16, heuristic=49, f(n)=g(n)+h(n)=65
+FH
+OT
+I
+LQC
+MJ
+AENR
+
+DPG
+SB
+K
+>>>>>>>>>>
+move 17, pathcost=17, heuristic=46, f(n)=g(n)+h(n)=63
+FH
+OT
+I
+LQC
+MJG
+AENR
+
+DP
+SB
+K
+>>>>>>>>>>
+move 18, pathcost=18, heuristic=45, f(n)=g(n)+h(n)=63
+FH
+OT
+IC
+LQ
+MJG
+AENR
+
+DP
+SB
+K
+>>>>>>>>>>
+move 19, pathcost=19, heuristic=41, f(n)=g(n)+h(n)=60
+FH
+OT
+ICQ
+L
+MJG
+AENR
+
+DP
+SB
+K
+>>>>>>>>>>
+move 20, pathcost=20, heuristic=40, f(n)=g(n)+h(n)=60
+FH
+OT
+ICQ
+
+MJG
+AENRL
+
+DP
+SB
+K
+>>>>>>>>>>
+move 21, pathcost=21, heuristic=38, f(n)=g(n)+h(n)=59
+FH
+OT
+ICQ
+P
+MJG
+AENRL
+
+D
+SB
+K
+>>>>>>>>>>
+move 22, pathcost=22, heuristic=35, f(n)=g(n)+h(n)=57
+FH
+OT
+ICQ
+P
+MJG
+AENR
+
+DL
+SB
+K
+>>>>>>>>>>
+move 23, pathcost=23, heuristic=36, f(n)=g(n)+h(n)=59
+F
+OT
+ICQ
+P
+MJG
+AENR
+
+DLH
+SB
+K
+>>>>>>>>>>
+move 24, pathcost=24, heuristic=32, f(n)=g(n)+h(n)=56
+
+OT
+ICQ
+PF
+MJG
+AENR
+
+DLH
+SB
+K
+>>>>>>>>>>
+move 25, pathcost=25, heuristic=32, f(n)=g(n)+h(n)=57
+
+OT
+IC
+PF
+MJG
+AENR
+
+DLHQ
+SB
+K
+>>>>>>>>>>
+move 26, pathcost=26, heuristic=30, f(n)=g(n)+h(n)=56
+
+OT
+I
+PFC
+MJG
+AENR
+
+DLHQ
+SB
+K
+>>>>>>>>>>
+move 27, pathcost=27, heuristic=30, f(n)=g(n)+h(n)=57
+
+O
+IT
+PFC
+MJG
+AENR
+
+DLHQ
+SB
+K
+>>>>>>>>>>
+move 28, pathcost=28, heuristic=26, f(n)=g(n)+h(n)=54
+O
+
+IT
+PFC
+MJG
+AENR
+
+DLHQ
+SB
+K
+>>>>>>>>>>
+move 29, pathcost=29, heuristic=26, f(n)=g(n)+h(n)=55
+O
+
+ITQ
+PFC
+MJG
+AENR
+
+DLH
+SB
+K
+>>>>>>>>>>
+move 30, pathcost=30, heuristic=23, f(n)=g(n)+h(n)=53
+OH
+
+ITQ
+PFC
+MJG
+AENR
+
+DL
+SB
+K
+>>>>>>>>>>
+move 31, pathcost=31, heuristic=24, f(n)=g(n)+h(n)=55
+OH
+
+ITQ
+PFC
+MJG
+AENR
+
+DLB
+S
+K
+>>>>>>>>>>
+move 32, pathcost=32, heuristic=20, f(n)=g(n)+h(n)=52
+OH
+S
+ITQ
+PFC
+MJG
+AENR
+
+DLB
+
+K
+>>>>>>>>>>
+move 33, pathcost=33, heuristic=16, f(n)=g(n)+h(n)=49
+OH
+S
+IT
+PFC
+MJG
+AENR
+
+DLB
+Q
+K
+>>>>>>>>>>
+move 34, pathcost=34, heuristic=13, f(n)=g(n)+h(n)=47
+OH
+S
+IT
+PFC
+MJG
+AENR
+
+DL
+QB
+K
+>>>>>>>>>>
+move 35, pathcost=35, heuristic=11, f(n)=g(n)+h(n)=46
+OH
+ST
+I
+PFC
+MJG
+AENR
+
+DL
+QB
+K
+>>>>>>>>>>
+move 36, pathcost=36, heuristic=11, f(n)=g(n)+h(n)=47
+OH
+ST
+IL
+PFC
+MJG
+AENR
+
+D
+QB
+K
+>>>>>>>>>>
+move 37, pathcost=37, heuristic=11, f(n)=g(n)+h(n)=48
+OH
+ST
+IL
+PFC
+MJG
+AENR
+D
+
+QB
+K
+>>>>>>>>>>
+move 38, pathcost=38, heuristic=7, f(n)=g(n)+h(n)=45
+OH
+ST
+IL
+PFC
+MJG
+AEN
+DR
+
+QB
+K
+>>>>>>>>>>
+move 39, pathcost=39, heuristic=4, f(n)=g(n)+h(n)=43
+OH
+ST
+IL
+PFC
+MJG
+AE
+DR
+N
+QB
+K
+>>>>>>>>>>
+move 40, pathcost=40, heuristic=2, f(n)=g(n)+h(n)=42
+OH
+ST
+IL
+PFC
+MJG
+A
+DRE
+N
+QB
+K
+>>>>>>>>>>
+move 41, pathcost=41, heuristic=2, f(n)=g(n)+h(n)=43
+OH
+ST
+IL
+PFC
+MJG
+
+DRE
+N
+QB
+KA
+>>>>>>>>>>
+move 42, pathcost=42, heuristic=0, f(n)=g(n)+h(n)=42
+OH
+ST
+I
+PFC
+MJG
+
+DRE
+N
+QB
+KAL
+>>>>>>>>>>
+move 43, pathcost=43, heuristic=0, f(n)=g(n)+h(n)=43
+OH
+ST
+I
+PFC
+MJG
+
+DREN
+
+QB
+KAL
+>>>>>>>>>>
+success! iter=7356, depth=37, max queue size=7247
+move 0, pathcost=0, heuristic=109, f(n)=g(n)+h(n)=109
+
+FM
+BC
+IO
+AGS
+DEJ
+H
+PR
+KLQ
+NT
+>>>>>>>>>>
+move 1, pathcost=1, heuristic=96, f(n)=g(n)+h(n)=97
+Q
+FM
+BC
+IO
+AGS
+DEJ
+H
+PR
+KL
+NT
+>>>>>>>>>>
+move 2, pathcost=2, heuristic=85, f(n)=g(n)+h(n)=87
+Q
+FM
+BCL
+IO
+AGS
+DEJ
+H
+PR
+K
+NT
+>>>>>>>>>>
+move 3, pathcost=3, heuristic=76, f(n)=g(n)+h(n)=79
+Q
+FM
+BCL
+IO
+AGS
+DEJ
+H
+PRK
+
+NT
+>>>>>>>>>>
+move 4, pathcost=4, heuristic=67, f(n)=g(n)+h(n)=71
+Q
+FM
+BCL
+IO
+AGS
+DE
+H
+PRK
+J
+NT
+>>>>>>>>>>
+move 5, pathcost=5, heuristic=61, f(n)=g(n)+h(n)=66
+Q
+FM
+BCL
+IO
+AGS
+D
+HE
+PRK
+J
+NT
+>>>>>>>>>>
+move 6, pathcost=6, heuristic=55, f(n)=g(n)+h(n)=61
+Q
+FM
+BCL
+IO
+AGS
+
+HE
+PRK
+JD
+NT
+>>>>>>>>>>
+move 7, pathcost=7, heuristic=51, f(n)=g(n)+h(n)=58
+Q
+FM
+BCL
+I
+AGS
+O
+HE
+PRK
+JD
+NT
+>>>>>>>>>>
+move 8, pathcost=8, heuristic=48, f(n)=g(n)+h(n)=56
+Q
+FM
+BCL
+I
+AGS
+O
+HE
+PR
+JDK
+NT
+>>>>>>>>>>
+move 9, pathcost=9, heuristic=45, f(n)=g(n)+h(n)=54
+Q
+F
+BCL
+I
+AGS
+O
+HE
+PRM
+JDK
+NT
+>>>>>>>>>>
+move 10, pathcost=10, heuristic=44, f(n)=g(n)+h(n)=54
+Q
+F
+BCL
+IS
+AG
+O
+HE
+PRM
+JDK
+NT
+>>>>>>>>>>
+move 11, pathcost=11, heuristic=44, f(n)=g(n)+h(n)=55
+Q
+F
+BCL
+IS
+A
+O
+HE
+PRMG
+JDK
+NT
+>>>>>>>>>>
+move 12, pathcost=12, heuristic=42, f(n)=g(n)+h(n)=54
+Q
+F
+BCL
+IS
+
+O
+HE
+PRMG
+JDKA
+NT
+>>>>>>>>>>
+move 13, pathcost=13, heuristic=39, f(n)=g(n)+h(n)=52
+Q
+F
+BC
+IS
+
+O
+HE
+PRMG
+JDKAL
+NT
+>>>>>>>>>>
+move 14, pathcost=14, heuristic=37, f(n)=g(n)+h(n)=51
+Q
+
+BC
+IS
+F
+O
+HE
+PRMG
+JDKAL
+NT
+>>>>>>>>>>
+move 15, pathcost=15, heuristic=35, f(n)=g(n)+h(n)=50
+Q
+
+B
+IS
+F
+OC
+HE
+PRMG
+JDKAL
+NT
+>>>>>>>>>>
+move 16, pathcost=16, heuristic=31, f(n)=g(n)+h(n)=47
+Q
+
+B
+I
+F
+OCS
+HE
+PRMG
+JDKAL
+NT
+>>>>>>>>>>
+move 17, pathcost=17, heuristic=29, f(n)=g(n)+h(n)=46
+Q
+
+BG
+I
+F
+OCS
+HE
+PRM
+JDKAL
+NT
+>>>>>>>>>>
+move 18, pathcost=18, heuristic=29, f(n)=g(n)+h(n)=47
+Q
+
+BGM
+I
+F
+OCS
+HE
+PR
+JDKAL
+NT
+>>>>>>>>>>
+move 19, pathcost=19, heuristic=27, f(n)=g(n)+h(n)=46
+Q
+
+BGM
+I
+F
+OCS
+HE
+P
+JDKALR
+NT
+>>>>>>>>>>
+move 20, pathcost=20, heuristic=27, f(n)=g(n)+h(n)=47
+Q
+
+BGM
+I
+F
+OCS
+H
+PE
+JDKALR
+NT
+>>>>>>>>>>
+move 21, pathcost=21, heuristic=22, f(n)=g(n)+h(n)=43
+Q
+
+BGM
+I
+F
+OCS
+
+PEH
+JDKALR
+NT
+>>>>>>>>>>
+move 22, pathcost=22, heuristic=24, f(n)=g(n)+h(n)=46
+
+
+BGM
+IQ
+F
+OCS
+
+PEH
+JDKALR
+NT
+>>>>>>>>>>
+move 23, pathcost=23, heuristic=22, f(n)=g(n)+h(n)=45
+F
+
+BGM
+IQ
+
+OCS
+
+PEH
+JDKALR
+NT
+>>>>>>>>>>
+move 24, pathcost=24, heuristic=19, f(n)=g(n)+h(n)=43
+F
+
+BGM
+IQ
+H
+OCS
+
+PE
+JDKALR
+NT
+>>>>>>>>>>
+move 25, pathcost=25, heuristic=17, f(n)=g(n)+h(n)=42
+FQ
+
+BGM
+I
+H
+OCS
+
+PE
+JDKALR
+NT
+>>>>>>>>>>
+move 26, pathcost=26, heuristic=17, f(n)=g(n)+h(n)=43
+FQ
+
+BGM
+I
+HT
+OCS
+
+PE
+JDKALR
+N
+>>>>>>>>>>
+move 27, pathcost=27, heuristic=13, f(n)=g(n)+h(n)=40
+FQ
+N
+BGM
+I
+HT
+OCS
+
+PE
+JDKALR
+
+>>>>>>>>>>
+move 28, pathcost=28, heuristic=10, f(n)=g(n)+h(n)=38
+FQ
+N
+BG
+I
+HT
+OCS
+
+PE
+JDKALR
+M
+>>>>>>>>>>
+move 29, pathcost=29, heuristic=8, f(n)=g(n)+h(n)=37
+FQ
+NI
+BG
+
+HT
+OCS
+
+PE
+JDKALR
+M
+>>>>>>>>>>
+move 30, pathcost=30, heuristic=6, f(n)=g(n)+h(n)=36
+FQ
+NI
+B
+G
+HT
+OCS
+
+PE
+JDKALR
+M
+>>>>>>>>>>
+move 31, pathcost=31, heuristic=4, f(n)=g(n)+h(n)=35
+FQ
+NI
+B
+G
+H
+OCS
+
+PE
+JDKALR
+MT
+>>>>>>>>>>
+move 32, pathcost=32, heuristic=4, f(n)=g(n)+h(n)=36
+FQ
+NI
+BE
+G
+H
+OCS
+
+P
+JDKALR
+MT
+>>>>>>>>>>
+move 33, pathcost=33, heuristic=4, f(n)=g(n)+h(n)=37
+FQ
+NI
+BE
+G
+H
+OCS
+P
+
+JDKALR
+MT
+>>>>>>>>>>
+move 34, pathcost=34, heuristic=2, f(n)=g(n)+h(n)=36
+F
+NI
+BE
+G
+H
+OCS
+P
+Q
+JDKALR
+MT
+>>>>>>>>>>
+move 35, pathcost=35, heuristic=0, f(n)=g(n)+h(n)=35
+F
+NI
+B
+G
+H
+OCS
+PE
+Q
+JDKALR
+MT
+>>>>>>>>>>
+move 36, pathcost=36, heuristic=0, f(n)=g(n)+h(n)=36
+F
+NI
+
+G
+H
+OCS
+PEB
+Q
+JDKALR
+MT
+>>>>>>>>>>
+move 37, pathcost=37, heuristic=0, f(n)=g(n)+h(n)=37
+F
+NI
+
+G
+H
+OCS
+PEBQ
+
+JDKALR
+MT
+>>>>>>>>>>
